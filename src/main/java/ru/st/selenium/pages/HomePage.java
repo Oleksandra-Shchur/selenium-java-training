@@ -9,7 +9,6 @@ import org.openqa.selenium.support.How;
 /*
  * Sample page
  * 
- * @author Sebastiano Armeli-Battana
  */
 public class HomePage extends Page {
 
