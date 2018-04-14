@@ -3,7 +3,6 @@ package ru.st.selenium.util;
 /*
  * Bean representing a browser. It contains name, version and platform fields.
  * 
- * @author Sebastiano Armeli-Battana
  */
 public class Browser {
 
